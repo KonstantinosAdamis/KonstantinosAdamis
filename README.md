@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonstantinosAdamis
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning game development.
+- 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me via email: kon.adamis2@gmail.com.
 
