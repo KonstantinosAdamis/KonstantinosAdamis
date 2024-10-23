@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonstantinosAdamis
+- 👋 Hi, I’m @kadamis
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on python projects.
