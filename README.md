@@ -6,3 +6,4 @@
 - 💬 Ask me about programming
 - 📫 How to reach me: kon.adamis2@gmail.com
 - 😄 Pronouns: Kostas
+- https://www.youtube.com/@KonstantinosAdamis
