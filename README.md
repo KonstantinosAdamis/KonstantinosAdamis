@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm an Electrical and Computer Engineer currently learning Digital Signal Processing and Scala from !
+I'm an Electrical and Computer Engineer currently learning Digital Signal Processing and Scala!
